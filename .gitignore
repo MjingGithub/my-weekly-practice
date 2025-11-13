@@ -1,5 +1,8 @@
 # Default ignored files
 **/.idea/
+/demo/python/pdf_rag/logs/pdf_rag_app.log
+**/.ipynb_checkpoints/
+jupyter_notebook_start.bat
 .idea/
 **/.project
 **/.classpath
